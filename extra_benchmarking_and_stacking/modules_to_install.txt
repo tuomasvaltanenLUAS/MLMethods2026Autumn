@@ -1,0 +1,14 @@
+# these should work with Python 3.12 venv
+
+pip install numpy
+pip install pandas
+pip install xgboost
+pip install imblearn
+pip install lightgbm
+pip install catboost
+pip install scipy
+pip install seaborn
+pip install tensorflow
+pip install jinja2
+
+# after installing all, restart your Jupyter kernel in the notebook
