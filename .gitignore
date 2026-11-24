@@ -1,3 +1,3 @@
 /.venv
-/extra_benchmarking_and_stacking/classification/catboost_info
-/extra_benchmarking_and_stacking/regression/catboost_info
+/advanced_extras/extra_benchmarking_and_stacking/classification/catboost_info
+/advanced_extras//extra_benchmarking_and_stacking/regression/catboost_info
